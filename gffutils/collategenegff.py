@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Extract all genes from GFF file derived from MAKER run output.
 # Collect blast and est2genome match from GFF derived from MAKER run output.
+# Also create FASTA file of genes according to gff feature file.
 # somsak.lik@biotec.or.th
 import re 
 
